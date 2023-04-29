@@ -75,3 +75,10 @@
 <br>
 <a href="https://github.com/dfloresdev/docker-ghost-cloud-storage">Repository here</a></p>-->
 
+![Steve Pinero GitHub stats](https://github-readme-stats.vercel.app/api?username=stevepinero&theme=aura_dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevepinero&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/stevepinero)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stevepinero)
